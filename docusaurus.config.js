@@ -11,7 +11,7 @@ const config = {
   title: 'Research Work',
   tagline: 'I am working for nothing!',
   url: 'https://arun-esh.github.io/',
-  baseUrl: '/publicBlog/',
+  baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/letter-a-com.svg',
@@ -140,7 +140,7 @@ const config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Research Project, Inc. Built with Docusaurus.`,
     },
 
     presets: [

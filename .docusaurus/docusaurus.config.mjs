@@ -7,7 +7,7 @@ export default {
   "title": "Research Work",
   "tagline": "I am working for nothing!",
   "url": "https://arun-esh.github.io/",
-  "baseUrl": "/publicBlog/",
+  "baseUrl": "/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/letter-a-com.svg",
@@ -135,7 +135,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 Research Project, Inc. Built with Docusaurus."
     },
     "presets": [
       [

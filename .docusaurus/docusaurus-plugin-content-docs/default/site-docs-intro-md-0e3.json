@@ -6,7 +6,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/publicBlog/docs/intro",
+  "permalink": "/docs/intro",
   "draft": false,
   "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/docs/intro.md",
   "tags": [],

@@ -3,115 +3,80 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/publicBlog/__docusaurus/debug',
-    component: ComponentCreator('/publicBlog/__docusaurus/debug', '367'),
+    path: '/blog',
+    component: ComponentCreator('/blog', '1c5'),
     exact: true
   },
   {
-    path: '/publicBlog/__docusaurus/debug/config',
-    component: ComponentCreator('/publicBlog/__docusaurus/debug/config', 'cb0'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', 'bae'),
     exact: true
   },
   {
-    path: '/publicBlog/__docusaurus/debug/content',
-    component: ComponentCreator('/publicBlog/__docusaurus/debug/content', '38b'),
+    path: '/blog/first-blog-post',
+    component: ComponentCreator('/blog/first-blog-post', '48b'),
     exact: true
   },
   {
-    path: '/publicBlog/__docusaurus/debug/globalData',
-    component: ComponentCreator('/publicBlog/__docusaurus/debug/globalData', '3fb'),
+    path: '/blog/long-blog-post',
+    component: ComponentCreator('/blog/long-blog-post', 'd89'),
     exact: true
   },
   {
-    path: '/publicBlog/__docusaurus/debug/metadata',
-    component: ComponentCreator('/publicBlog/__docusaurus/debug/metadata', 'd13'),
+    path: '/blog/mdx-blog-post',
+    component: ComponentCreator('/blog/mdx-blog-post', 'e7a'),
     exact: true
   },
   {
-    path: '/publicBlog/__docusaurus/debug/registry',
-    component: ComponentCreator('/publicBlog/__docusaurus/debug/registry', '0cb'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', '91a'),
     exact: true
   },
   {
-    path: '/publicBlog/__docusaurus/debug/routes',
-    component: ComponentCreator('/publicBlog/__docusaurus/debug/routes', '93c'),
+    path: '/blog/tags/docusaurus',
+    component: ComponentCreator('/blog/tags/docusaurus', '619'),
     exact: true
   },
   {
-    path: '/publicBlog/blog',
-    component: ComponentCreator('/publicBlog/blog', '8a0'),
+    path: '/blog/tags/facebook',
+    component: ComponentCreator('/blog/tags/facebook', '02c'),
     exact: true
   },
   {
-    path: '/publicBlog/blog/archive',
-    component: ComponentCreator('/publicBlog/blog/archive', '43a'),
+    path: '/blog/tags/hello',
+    component: ComponentCreator('/blog/tags/hello', '13f'),
     exact: true
   },
   {
-    path: '/publicBlog/blog/first-blog-post',
-    component: ComponentCreator('/publicBlog/blog/first-blog-post', '0bc'),
+    path: '/blog/tags/hola',
+    component: ComponentCreator('/blog/tags/hola', '79e'),
     exact: true
   },
   {
-    path: '/publicBlog/blog/long-blog-post',
-    component: ComponentCreator('/publicBlog/blog/long-blog-post', 'a7b'),
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome', '170'),
     exact: true
   },
   {
-    path: '/publicBlog/blog/mdx-blog-post',
-    component: ComponentCreator('/publicBlog/blog/mdx-blog-post', 'a62'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', 'f51'),
     exact: true
   },
   {
-    path: '/publicBlog/blog/tags',
-    component: ComponentCreator('/publicBlog/blog/tags', '106'),
-    exact: true
-  },
-  {
-    path: '/publicBlog/blog/tags/docusaurus',
-    component: ComponentCreator('/publicBlog/blog/tags/docusaurus', 'b78'),
-    exact: true
-  },
-  {
-    path: '/publicBlog/blog/tags/facebook',
-    component: ComponentCreator('/publicBlog/blog/tags/facebook', '80f'),
-    exact: true
-  },
-  {
-    path: '/publicBlog/blog/tags/hello',
-    component: ComponentCreator('/publicBlog/blog/tags/hello', '845'),
-    exact: true
-  },
-  {
-    path: '/publicBlog/blog/tags/hola',
-    component: ComponentCreator('/publicBlog/blog/tags/hola', 'a6c'),
-    exact: true
-  },
-  {
-    path: '/publicBlog/blog/welcome',
-    component: ComponentCreator('/publicBlog/blog/welcome', '274'),
-    exact: true
-  },
-  {
-    path: '/publicBlog/markdown-page',
-    component: ComponentCreator('/publicBlog/markdown-page', '84c'),
-    exact: true
-  },
-  {
-    path: '/publicBlog/docs',
-    component: ComponentCreator('/publicBlog/docs', '053'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '773'),
     routes: [
       {
-        path: '/publicBlog/docs/intro',
-        component: ComponentCreator('/publicBlog/docs/intro', '33e'),
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro', 'aed'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/publicBlog/',
-    component: ComponentCreator('/publicBlog/', 'e20'),
+    path: '/',
+    component: ComponentCreator('/', 'bc0'),
     exact: true
   },
   {

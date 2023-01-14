@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_open_source=self.webpackChunkmy_open_source||[]).push([[763],{7242:e=>{e.exports=JSON.parse('{"permalink":"/publicBlog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

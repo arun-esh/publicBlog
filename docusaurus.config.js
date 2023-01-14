@@ -34,7 +34,7 @@ const config = {
           remarkPlugins: [math],
           rehypePlugins: [katex],
 
-          editUrl: 'https://github.com/arun-esh/publicBlog/tree/public/',
+          editUrl: 'https://github.com/arun-esh/publicBlog/edit/main/',
         },
         blog: {
           showReadingTime: true,

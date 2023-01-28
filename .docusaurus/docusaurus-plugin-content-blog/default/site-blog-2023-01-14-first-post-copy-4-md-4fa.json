@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/first-post",
+  "source": "@site/blog/2023-01-14-first-post copy 4.md",
+  "title": "Welcome",
+  "description": "This is the summary of a very long blog post,",
+  "date": "2023-01-14T00:00:00.000Z",
+  "formattedDate": "January 14, 2023",
+  "tags": [
+    {
+      "label": "welcome",
+      "permalink": "/blog/tags/welcome"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 2.05,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "A₹unesh",
+      "title": "Maintainer of Research work",
+      "url": "https://github.com/arun-esh",
+      "imageURL": "https://github.com/arun-esh.png",
+      "key": "A₹unesh"
+    }
+  ],
+  "frontMatter": {
+    "slug": "first-post",
+    "title": "Welcome",
+    "authors": "A₹unesh",
+    "tags": [
+      "welcome",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Welcome",
+    "permalink": "/blog/first-post"
+  },
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/first-post"
+  }
+}

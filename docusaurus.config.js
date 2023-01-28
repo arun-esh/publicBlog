@@ -104,23 +104,23 @@ const config = {
           ],
         },
 
-        {
-          title: 'My Tutorial Links',
-          items: [
-            {
-              label: 'SQL',
-              href: '/docs/intro',
-            },
-            {
-              label: 'SQL',
-              href: '/docs/intro',
-            },
-            {
-              label: 'SQL1',
-              href: '/docs/intro',
-            },
-          ],
-        },
+        // {
+        //   title: 'My Tutorial Links',
+        //   items: [
+        //     {
+        //       label: 'SQL',
+        //       href: '/docs/intro',
+        //     },
+        //     {
+        //       label: 'SQL',
+        //       href: '/docs/intro',
+        //     },
+        //     {
+        //       label: 'SQL1',
+        //       href: '/docs/intro',
+        //     },
+        //   ],
+        // },
 
         {
           title: 'Social Links',

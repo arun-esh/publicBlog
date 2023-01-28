@@ -23,26 +23,18 @@
   "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
-    },
-    {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
-      "imageURL": "https://github.com/yangshun.png",
-      "key": "yangshun"
+      "name": "A₹unesh",
+      "title": "Maintainer of Research work",
+      "url": "https://github.com/arun-esh",
+      "imageURL": "https://github.com/arun-esh.png",
+      "key": "A₹unesh"
     }
   ],
   "frontMatter": {
     "slug": "welcome",
     "title": "Welcome",
     "authors": [
-      "slorber",
-      "yangshun"
+      "A₹unesh"
     ],
     "tags": [
       "facebook",
@@ -50,8 +42,8 @@
       "docusaurus"
     ]
   },
-  "nextItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/blog/mdx-blog-post"
+  "prevItem": {
+    "title": "Welcome",
+    "permalink": "/blog/first-post"
   }
 }

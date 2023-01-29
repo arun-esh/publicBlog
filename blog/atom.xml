@@ -9,7 +9,7 @@
     <icon>https://arun-esh.github.io/img/letter-a-com.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>first-post</id>
+        <id>https://arun-esh.github.io/blog/first-post</id>
         <link href="https://arun-esh.github.io/blog/first-post"/>
         <updated>2023-01-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi there, I'm Arunesh Choudhary]]></summary>

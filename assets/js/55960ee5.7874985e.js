@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_open_source=self.webpackChunkmy_open_source||[]).push([[121],{8070:a=>{a.exports=JSON.parse('[{"label":"sql","permalink":"/docs/tags/sql","count":1},{"label":"mariaDB","permalink":"/docs/tags/maria-db","count":1},{"label":"installation","permalink":"/docs/tags/installation","count":1}]')}}]);

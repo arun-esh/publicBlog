@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_open_source=self.webpackChunkmy_open_source||[]).push([[765],{6441:e=>{e.exports=JSON.parse('[{"label":"welcome","permalink":"/publicBlog/blog/tags/welcome","count":1},{"label":"docusaurus","permalink":"/publicBlog/blog/tags/docusaurus","count":1}]')}}]);

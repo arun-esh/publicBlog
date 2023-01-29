@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_open_source=self.webpackChunkmy_open_source||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/publicBlog/blog/first-post"}]}')}}]);

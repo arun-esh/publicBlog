@@ -1,22 +1,12 @@
 [
   {
-    "label": "facebook",
-    "permalink": "/publicBlog/blog/tags/facebook",
+    "label": "welcome",
+    "permalink": "/publicBlog/blog/tags/welcome",
     "count": 1
-  },
-  {
-    "label": "hello",
-    "permalink": "/publicBlog/blog/tags/hello",
-    "count": 2
   },
   {
     "label": "docusaurus",
     "permalink": "/publicBlog/blog/tags/docusaurus",
-    "count": 4
-  },
-  {
-    "label": "hola",
-    "permalink": "/publicBlog/blog/tags/hola",
     "count": 1
   }
 ]

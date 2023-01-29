@@ -14,6 +14,21 @@
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mariaDB/commands",
+              "path": "/docs/mariaDB/maria-db-commands",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mariaDB/install",
+              "path": "/docs/mariaDB/install-maria-db-from-source-code",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/mariadb",
+              "path": "/docs/category/mariadb",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

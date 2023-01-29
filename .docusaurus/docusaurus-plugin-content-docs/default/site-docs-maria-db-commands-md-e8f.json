@@ -1,0 +1,43 @@
+{
+  "unversionedId": "mariaDB/commands",
+  "id": "mariaDB/commands",
+  "title": "MariaDB Commands",
+  "description": "SQL Commands",
+  "source": "@site/docs/mariaDB/commands.md",
+  "sourceDirName": "mariaDB",
+  "slug": "/mariaDB/maria-db-commands",
+  "permalink": "/docs/mariaDB/maria-db-commands",
+  "draft": false,
+  "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/docs/mariaDB/commands.md",
+  "tags": [
+    {
+      "label": "sql",
+      "permalink": "/docs/tags/sql"
+    },
+    {
+      "label": "mariaDB",
+      "permalink": "/docs/tags/maria-db"
+    },
+    {
+      "label": "commands",
+      "permalink": "/docs/tags/commands"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "slug": "maria-db-commands",
+    "title": "MariaDB Commands",
+    "tags": [
+      "sql",
+      "mariaDB",
+      "commands"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install MariaDB from Source",
+    "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
+  }
+}

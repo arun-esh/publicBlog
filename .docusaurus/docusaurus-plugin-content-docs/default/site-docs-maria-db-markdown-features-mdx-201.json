@@ -1,0 +1,27 @@
+{
+  "unversionedId": "mariaDB/markdown-features",
+  "id": "mariaDB/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/mariaDB/markdown-features.mdx",
+  "sourceDirName": "mariaDB",
+  "slug": "/mariaDB/markdown-features",
+  "permalink": "/docs/mariaDB/markdown-features",
+  "draft": false,
+  "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/docs/mariaDB/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install MariaDB from Source",
+    "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
+  },
+  "next": {
+    "title": "commands",
+    "permalink": "/docs/mariaDB/commands"
+  }
+}

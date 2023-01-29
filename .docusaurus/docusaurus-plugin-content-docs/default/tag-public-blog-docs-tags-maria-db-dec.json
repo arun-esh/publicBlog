@@ -1,0 +1,20 @@
+{
+  "label": "mariaDB",
+  "permalink": "/publicBlog/docs/tags/maria-db",
+  "allTagsPath": "/publicBlog/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "mariaDB/install",
+      "title": "Install MariaDB from Source",
+      "description": "Get the source code",
+      "permalink": "/publicBlog/docs/mariaDB/install-maria-db-from-source-code"
+    },
+    {
+      "id": "mariaDB/commands",
+      "title": "MariaDB Commands",
+      "description": "SQL Commands",
+      "permalink": "/publicBlog/docs/mariaDB/maria-db-commands"
+    }
+  ]
+}

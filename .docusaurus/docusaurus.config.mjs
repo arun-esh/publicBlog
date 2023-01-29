@@ -6,7 +6,7 @@
 export default {
   "title": "Research Work",
   "tagline": "I am working for nothing!",
-  "url": "https://arun-esh.github.io/",
+  "url": "https://arun-esh.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/arunesh/projects/current/publicBlog/sidebars.js",
+          "sidebarPath": "/Users/arunesh/data/projects/publicBlog/sidebars.js",
           "remarkPlugins": [
             null
           ],
@@ -37,10 +37,11 @@ export default {
           "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/"
         },
         "blog": {
-          "showReadingTime": true
+          "showReadingTime": true,
+          "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/"
         },
         "theme": {
-          "customCss": "/Users/arunesh/projects/current/publicBlog/src/css/custom.css"
+          "customCss": "/Users/arunesh/data/projects/publicBlog/src/css/custom.css"
         }
       }
     ]
@@ -76,9 +77,24 @@ export default {
           "label": "Tutorials"
         },
         {
+          "to": "/blog/tags",
+          "label": "Blog-Tags",
+          "position": "left"
+        },
+        {
+          "to": "/docs/tags",
+          "label": "Tutorial-Tags",
+          "position": "left"
+        },
+        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
+        },
+        {
+          "href": "https://twitter.com/arun3sh",
+          "label": "Twitter",
+          "position": "right"
         },
         {
           "href": "https://github.com/arun-esh/",
@@ -125,13 +141,13 @@ export default {
         "classic",
         {
           "docs": {
-            "sidebarPath": "/Users/arunesh/projects/current/publicBlog/sidebars.js"
+            "sidebarPath": "/Users/arunesh/data/projects/publicBlog/sidebars.js"
           },
           "blog": {
             "showReadingTime": true
           },
           "theme": {
-            "customCss": "/Users/arunesh/projects/current/publicBlog/src/css/custom.css"
+            "customCss": "/Users/arunesh/data/projects/publicBlog/src/css/custom.css"
           }
         }
       ]
@@ -298,7 +314,11 @@ export default {
   "plugins": [],
   "themes": [],
   "scripts": [],
+  "headTags": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false
+  "noIndex": false,
+  "markdown": {
+    "mermaid": false
+  }
 };

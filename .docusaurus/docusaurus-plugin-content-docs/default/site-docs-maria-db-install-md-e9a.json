@@ -1,0 +1,47 @@
+{
+  "unversionedId": "mariaDB/install",
+  "id": "mariaDB/install",
+  "title": "Install MariaDB from Source",
+  "description": "Get the source code",
+  "source": "@site/docs/mariaDB/install.md",
+  "sourceDirName": "mariaDB",
+  "slug": "/mariaDB/install-maria-db-from-source-code",
+  "permalink": "/docs/mariaDB/install-maria-db-from-source-code",
+  "draft": false,
+  "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/docs/mariaDB/install.md",
+  "tags": [
+    {
+      "label": "sql",
+      "permalink": "/docs/tags/sql"
+    },
+    {
+      "label": "mariaDB",
+      "permalink": "/docs/tags/maria-db"
+    },
+    {
+      "label": "installation",
+      "permalink": "/docs/tags/installation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "install-maria-db-from-source-code",
+    "title": "Install MariaDB from Source",
+    "tags": [
+      "sql",
+      "mariaDB",
+      "installation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MariaDB",
+    "permalink": "/docs/category/mariadb"
+  },
+  "next": {
+    "title": "MariaDB Commands",
+    "permalink": "/docs/mariaDB/maria-db-commands"
+  }
+}

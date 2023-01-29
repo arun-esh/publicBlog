@@ -1,0 +1,16 @@
+{
+  "title": "MariaDB Installation",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/mariadb-installation",
+  "permalink": "/docs/category/mariadb-installation",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Install MariaDB from Source",
+      "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
+    }
+  }
+}

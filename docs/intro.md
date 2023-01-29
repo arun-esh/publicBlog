@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: Welcome
 ---
 
 # Tutorial Intro
@@ -26,3 +27,21 @@ npm run start
 ```sh
 npm install --save remark-math@3 rehype-katex@5 hast-util-is-element@1.1.0
 ```
+
+## Install Diagrams
+
+Enable Mermaid functionality by adding plugin `@docusaurus/theme-mermaid` and setting `markdown.mermaid` to `true` in your `docusaurus.config.js`.
+
+```sh
+npm install --save @docusaurus/theme-mermaid
+```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+

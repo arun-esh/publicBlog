@@ -11,17 +11,50 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Welcome",
         "href": "/docs/intro",
         "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "MariaDB",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Install MariaDB from Source",
+            "href": "/docs/mariaDB/install-maria-db-from-source-code",
+            "docId": "mariaDB/install"
+          },
+          {
+            "type": "link",
+            "label": "MariaDB Commands",
+            "href": "/docs/mariaDB/maria-db-commands",
+            "docId": "mariaDB/commands"
+          }
+        ],
+        "href": "/docs/category/mariadb"
       }
     ]
   },
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
+      "title": "Welcome",
       "description": "Getting Started",
+      "sidebar": "tutorialSidebar"
+    },
+    "mariaDB/commands": {
+      "id": "mariaDB/commands",
+      "title": "MariaDB Commands",
+      "description": "SQL Commands",
+      "sidebar": "tutorialSidebar"
+    },
+    "mariaDB/install": {
+      "id": "mariaDB/install",
+      "title": "Install MariaDB from Source",
+      "description": "Get the source code",
       "sidebar": "tutorialSidebar"
     }
   }

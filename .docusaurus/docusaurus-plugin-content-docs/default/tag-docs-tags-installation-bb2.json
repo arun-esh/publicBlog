@@ -1,0 +1,14 @@
+{
+  "label": "installation",
+  "permalink": "/docs/tags/installation",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "mariaDB/install",
+      "title": "Install MariaDB from Source",
+      "description": "Get the source code",
+      "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
+    }
+  ]
+}

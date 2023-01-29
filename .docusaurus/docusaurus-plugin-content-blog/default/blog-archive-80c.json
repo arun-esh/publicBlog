@@ -4,6 +4,7 @@
       "id": "first-post",
       "metadata": {
         "permalink": "/blog/first-post",
+        "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/blog/2023-01-14-first-post.md",
         "source": "@site/blog/2023-01-14-first-post.md",
         "title": "Welcome",
         "description": "Hi there, I'm Arunesh Choudhary",

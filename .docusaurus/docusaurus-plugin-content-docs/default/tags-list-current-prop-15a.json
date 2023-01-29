@@ -1,0 +1,22 @@
+[
+  {
+    "label": "sql",
+    "permalink": "/docs/tags/sql",
+    "count": 2
+  },
+  {
+    "label": "mariaDB",
+    "permalink": "/docs/tags/maria-db",
+    "count": 2
+  },
+  {
+    "label": "commands",
+    "permalink": "/docs/tags/commands",
+    "count": 1
+  },
+  {
+    "label": "installation",
+    "permalink": "/docs/tags/installation",
+    "count": 1
+  }
+]

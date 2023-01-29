@@ -1,0 +1,16 @@
+{
+  "title": "MariaDB",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/mariadb",
+  "permalink": "/publicBlog/docs/category/mariadb",
+  "navigation": {
+    "previous": {
+      "title": "Welcome",
+      "permalink": "/publicBlog/docs/intro"
+    },
+    "next": {
+      "title": "Install MariaDB from Source",
+      "permalink": "/publicBlog/docs/mariaDB/install-maria-db-from-source-code"
+    }
+  }
+}

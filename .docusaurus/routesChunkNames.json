@@ -1,8 +1,8 @@
 {
-  "/blog-3b9": {
+  "/blog-275": {
     "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "558b1d86"
+      "plugin": "e56f780f"
     },
     "sidebar": "814f3328",
     "items": [
@@ -12,33 +12,33 @@
     ],
     "metadata": "b2b675dd"
   },
-  "/blog/archive-bae": {
+  "/blog/archive-2cb": {
     "__comp": "9e4087bc",
     "__context": {
-      "plugin": "558b1d86"
+      "plugin": "e56f780f"
     },
     "archive": "b2f554cd"
   },
-  "/blog/first-post-12d": {
+  "/blog/first-post-572": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "558b1d86"
+      "plugin": "e56f780f"
     },
     "sidebar": "814f3328",
     "content": "6bd90879"
   },
-  "/blog/tags-91a": {
+  "/blog/tags-7a4": {
     "__comp": "01a85c17",
     "__context": {
-      "plugin": "558b1d86"
+      "plugin": "e56f780f"
     },
     "sidebar": "814f3328",
     "tags": "a7023ddc"
   },
-  "/blog/tags/docusaurus-bff": {
+  "/blog/tags/docusaurus-0ce": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "558b1d86"
+      "plugin": "e56f780f"
     },
     "sidebar": "814f3328",
     "items": [
@@ -49,10 +49,10 @@
     "tag": "a80da1cf",
     "listMetadata": "608ae6a4"
   },
-  "/blog/tags/welcome-c06": {
+  "/blog/tags/welcome-a18": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "558b1d86"
+      "plugin": "e56f780f"
     },
     "sidebar": "814f3328",
     "items": [
@@ -63,28 +63,75 @@
     "tag": "f6ba3702",
     "listMetadata": "a24beb83"
   },
-  "/markdown-page-f51": {
+  "/docs/tags-74f": {
+    "__comp": "3720c009",
+    "__context": {
+      "plugin": "21fcde29"
+    },
+    "tags": "55960ee5"
+  },
+  "/docs/tags/commands-862": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "21fcde29"
+    },
+    "tag": "c18863b5"
+  },
+  "/docs/tags/installation-45f": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "21fcde29"
+    },
+    "tag": "e39eff86"
+  },
+  "/docs/tags/maria-db-fb4": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "21fcde29"
+    },
+    "tag": "8ca936d3"
+  },
+  "/docs/tags/sql-7c6": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "21fcde29"
+    },
+    "tag": "c0a0d864"
+  },
+  "/markdown-page-659": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "7ff741e6"
+      "plugin": "2f4c693d"
     },
     "content": "393be207"
   },
-  "/docs-773": {
+  "/docs-725": {
     "__comp": "1be78505",
     "__context": {
-      "plugin": "af43b288"
+      "plugin": "21fcde29"
     },
     "versionMetadata": "935f2afb"
+  },
+  "/docs/category/mariadb-f53": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9d900bbd"
   },
   "/docs/intro-aed": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/-bc0": {
+  "/docs/mariaDB/install-maria-db-from-source-code-acd": {
+    "__comp": "17896441",
+    "content": "e9a61986"
+  },
+  "/docs/mariaDB/maria-db-commands-470": {
+    "__comp": "17896441",
+    "content": "e8f09952"
+  },
+  "/-d7b": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "7ff741e6"
+      "plugin": "2f4c693d"
     },
     "config": "5e9f5e1a"
   }

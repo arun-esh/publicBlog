@@ -15,14 +15,14 @@
           "editUrlLocalized": "https://github.com/arun-esh/publicBlog/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/arunesh/projects/current/publicBlog/sidebars.js",
-          "contentPath": "/Users/arunesh/projects/current/publicBlog/docs",
-          "contentPathLocalized": "/Users/arunesh/projects/current/publicBlog/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/arunesh/data/projects/publicBlog/sidebars.js",
+          "contentPath": "/Users/arunesh/data/projects/publicBlog/docs",
+          "contentPathLocalized": "/Users/arunesh/data/projects/publicBlog/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Tutorial Intro",
+              "title": "Welcome",
               "description": "Getting Started",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
@@ -34,9 +34,81 @@
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "title": "Welcome"
               },
-              "sidebar": "tutorialSidebar"
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "MariaDB",
+                "permalink": "/docs/category/mariadb"
+              }
+            },
+            {
+              "unversionedId": "mariaDB/commands",
+              "id": "mariaDB/commands",
+              "title": "commands",
+              "description": "",
+              "source": "@site/docs/mariaDB/commands.md",
+              "sourceDirName": "mariaDB",
+              "slug": "/mariaDB/commands",
+              "permalink": "/docs/mariaDB/commands",
+              "draft": false,
+              "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/docs/mariaDB/commands.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Install MariaDB from Source",
+                "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
+              }
+            },
+            {
+              "unversionedId": "mariaDB/install",
+              "id": "mariaDB/install",
+              "title": "Install MariaDB from Source",
+              "description": "Get the source code",
+              "source": "@site/docs/mariaDB/install.md",
+              "sourceDirName": "mariaDB",
+              "slug": "/mariaDB/install-maria-db-from-source-code",
+              "permalink": "/docs/mariaDB/install-maria-db-from-source-code",
+              "draft": false,
+              "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/docs/mariaDB/install.md",
+              "tags": [
+                {
+                  "label": "sql",
+                  "permalink": "/docs/tags/sql"
+                },
+                {
+                  "label": "mariaDB",
+                  "permalink": "/docs/tags/maria-db"
+                },
+                {
+                  "label": "installation",
+                  "permalink": "/docs/tags/installation"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "install-maria-db-from-source-code",
+                "title": "Install MariaDB from Source",
+                "tags": [
+                  "sql",
+                  "mariaDB",
+                  "installation"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MariaDB",
+                "permalink": "/docs/category/mariadb"
+              },
+              "next": {
+                "title": "commands",
+                "permalink": "/docs/mariaDB/commands"
+              }
             }
           ],
           "drafts": [],
@@ -45,6 +117,28 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "MariaDB",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "mariaDB/install"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "mariaDB/commands"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/mariadb",
+                  "permalink": "/docs/category/mariadb"
+                }
               }
             ]
           }
@@ -60,6 +154,7 @@
           "id": "first-post",
           "metadata": {
             "permalink": "/blog/first-post",
+            "editUrl": "https://github.com/arun-esh/publicBlog/edit/main/blog/2023-01-14-first-post.md",
             "source": "@site/blog/2023-01-14-first-post.md",
             "title": "Welcome",
             "description": "Hi there, I'm Arunesh Choudhary",

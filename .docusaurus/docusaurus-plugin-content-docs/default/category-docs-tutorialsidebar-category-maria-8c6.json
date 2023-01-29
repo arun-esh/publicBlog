@@ -1,0 +1,15 @@
+{
+  "title": "Maria",
+  "slug": "/category/maria",
+  "permalink": "/docs/category/maria",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Install MariaDB from Source",
+      "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
+    }
+  }
+}

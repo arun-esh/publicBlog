@@ -38,7 +38,10 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+
+          editUrl: 'https://github.com/arun-esh/publicBlog/edit/main/',
         },
+
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -79,9 +82,25 @@ const config = {
         },
 
         {
+          to: '/blog/tags',
+          label: 'Blog-Tags',
+          position: 'left',
+        },
+        {
+          to: '/docs/tags',
+          label: 'Tutorial-Tags',
+          position: 'left',
+        },
+
+        {
           to: '/blog',
           label: 'Blog',
           position: 'left',
+        },
+        {
+          href: 'https://twitter.com/arun3sh',
+          label: 'Twitter',
+          position: 'right',
         },
         {
           href: 'https://github.com/arun-esh/',

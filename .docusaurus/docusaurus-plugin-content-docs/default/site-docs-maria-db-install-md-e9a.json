@@ -2,7 +2,7 @@
   "unversionedId": "mariaDB/install",
   "id": "mariaDB/install",
   "title": "Install MariaDB from Source",
-  "description": "Get the source code",
+  "description": "System Information:",
   "source": "@site/docs/mariaDB/install.md",
   "sourceDirName": "mariaDB",
   "slug": "/mariaDB/install-maria-db-from-source-code",
@@ -37,10 +37,6 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "MariaDB",
-    "permalink": "/docs/category/mariadb"
-  },
-  "next": {
     "title": "MariaDB Commands",
     "permalink": "/docs/mariaDB/maria-db-commands"
   }

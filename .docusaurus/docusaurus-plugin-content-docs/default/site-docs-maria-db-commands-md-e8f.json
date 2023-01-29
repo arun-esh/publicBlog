@@ -37,6 +37,10 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
+    "title": "Welcome",
+    "permalink": "/docs/intro"
+  },
+  "next": {
     "title": "Install MariaDB from Source",
     "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
   }

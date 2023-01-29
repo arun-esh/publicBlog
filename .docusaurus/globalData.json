@@ -24,11 +24,6 @@
               "id": "mariaDB/install",
               "path": "/docs/mariaDB/install-maria-db-from-source-code",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/mariadb",
-              "path": "/docs/category/mariadb",
-              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

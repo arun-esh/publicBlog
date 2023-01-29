@@ -17,24 +17,41 @@
       },
       {
         "type": "category",
-        "label": "MariaDB",
-        "collapsible": true,
-        "collapsed": true,
+        "label": "Tutorial",
         "items": [
-          {
-            "type": "link",
-            "label": "Install MariaDB from Source",
-            "href": "/docs/mariaDB/install-maria-db-from-source-code",
-            "docId": "mariaDB/install"
-          },
           {
             "type": "link",
             "label": "MariaDB Commands",
             "href": "/docs/mariaDB/maria-db-commands",
             "docId": "mariaDB/commands"
+          },
+          {
+            "type": "link",
+            "label": "Install MariaDB from Source",
+            "href": "/docs/mariaDB/install-maria-db-from-source-code",
+            "docId": "mariaDB/install"
           }
         ],
-        "href": "/docs/category/mariadb"
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Tags",
+        "items": [
+          {
+            "type": "link",
+            "label": "Tutorial Tags",
+            "href": "/docs/tags"
+          },
+          {
+            "type": "link",
+            "label": "Blog Tags",
+            "href": "/blog/tags"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   },
@@ -54,7 +71,7 @@
     "mariaDB/install": {
       "id": "mariaDB/install",
       "title": "Install MariaDB from Source",
-      "description": "Get the source code",
+      "description": "System Information:",
       "sidebar": "tutorialSidebar"
     }
   }

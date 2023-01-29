@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Research Work",
-  "tagline": "I am working for nothing!",
+  "tagline": "Still in the process of building up the website",
   "url": "https://arun-esh.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "ignore",
@@ -77,16 +77,6 @@ export default {
           "label": "Tutorials"
         },
         {
-          "to": "/blog/tags",
-          "label": "Blog-Tags",
-          "position": "left"
-        },
-        {
-          "to": "/docs/tags",
-          "label": "Tutorial-Tags",
-          "position": "left"
-        },
-        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
@@ -136,22 +126,6 @@ export default {
       ],
       "copyright": "Copyright © 2023 Research Project, Inc. Built with Docusaurus."
     },
-    "presets": [
-      [
-        "classic",
-        {
-          "docs": {
-            "sidebarPath": "/Users/arunesh/data/projects/publicBlog/sidebars.js"
-          },
-          "blog": {
-            "showReadingTime": true
-          },
-          "theme": {
-            "customCss": "/Users/arunesh/data/projects/publicBlog/src/css/custom.css"
-          }
-        }
-      ]
-    ],
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,

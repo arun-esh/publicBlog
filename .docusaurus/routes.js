@@ -64,14 +64,8 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '725'),
+    component: ComponentCreator('/docs', 'c81'),
     routes: [
-      {
-        path: '/docs/category/mariadb',
-        component: ComponentCreator('/docs/category/mariadb', 'f53'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'aed'),

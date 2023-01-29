@@ -9,7 +9,7 @@ const katex = require('rehype-katex');
 
 const config = {
   title: 'Research Work',
-  tagline: 'I am working for nothing!',
+  tagline: 'Still in the process of building up the website',
   url: 'https://arun-esh.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
@@ -38,7 +38,6 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-
           editUrl: 'https://github.com/arun-esh/publicBlog/edit/main/',
         },
 
@@ -66,6 +65,7 @@ const config = {
         hideable: true,
       },
     },
+
     navbar: {
       title: 'A₹unesh',
       logo: {
@@ -80,18 +80,6 @@ const config = {
           position: 'left',
           label: 'Tutorials',
         },
-
-        {
-          to: '/blog/tags',
-          label: 'Blog-Tags',
-          position: 'left',
-        },
-        {
-          to: '/docs/tags',
-          label: 'Tutorial-Tags',
-          position: 'left',
-        },
-
         {
           to: '/blog',
           label: 'Blog',
@@ -162,23 +150,23 @@ const config = {
       copyright: `Copyright © ${new Date().getFullYear()} Research Project, Inc. Built with Docusaurus.`,
     },
 
-    presets: [
-      [
-        'classic',
-        {
-          docs: {
-            sidebarPath: require.resolve('./sidebars.js'),
-          },
-          blog: {
-            showReadingTime: true,
-          },
+    // presets: [
+    //   [
+    //     'classic',
+    //     {
+    //       docs: {
+    //         sidebarPath: require.resolve('./sidebars.js'),
+    //       },
+    //       blog: {
+    //         showReadingTime: true,
+    //       },
 
-          theme: {
-            customCss: require.resolve('./src/css/custom.css'),
-          },
-        },
-      ],
-    ],
+    //       theme: {
+    //         customCss: require.resolve('./src/css/custom.css'),
+    //       },
+    //     },
+    //   ],
+    // ],
   },
 };
 

@@ -8,11 +8,11 @@ tags: [sql, mariaDB, installation]
 
 ## System Information:
 
-```bash
-Distributor ID:	Ubuntu
-Description:	Ubuntu 22.04.1 LTS
-Release:	22.04
-Codename:	jammy
+```java
+Distributor ID: 	Ubuntu
+Description: 		Ubuntu 22.04.1 LTS
+Release: 			22.04
+Codename: 			jammy
 ```
 
 
@@ -54,7 +54,7 @@ cd cmake-3.25.2
 mariaDB $ mkdir build-mariadb-server-debug
 mariaDB $ cd build-mariadb-server-debug
 
-# configure mariaDB by
+# configure mariaDB
 build-mariadb-server-debug $ cmake ../server -DCMAKE_BUILD_TYPE=Debug
 ```
 

@@ -7,7 +7,7 @@
     {
       "id": "mariaDB/install",
       "title": "Install MariaDB from Source",
-      "description": "Get the source code",
+      "description": "System Information:",
       "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
     },
     {

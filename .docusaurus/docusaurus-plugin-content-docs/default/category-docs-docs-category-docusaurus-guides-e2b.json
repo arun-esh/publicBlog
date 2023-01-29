@@ -1,0 +1,20 @@
+{
+  "title": "Docusaurus Guides",
+  "description": "Let's learn about the most important Docusaurus concepts!",
+  "image": "/img/docusaurus.png",
+  "keywords": [
+    "guides"
+  ],
+  "slug": "/category/guides",
+  "permalink": "/docs/category/guides",
+  "navigation": {
+    "previous": {
+      "title": "Install MariaDB from Source",
+      "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
+    },
+    "next": {
+      "title": "Install MariaDB from Source",
+      "permalink": "/docs/mariaDB/install-maria-db-from-source-code"
+    }
+  }
+}
